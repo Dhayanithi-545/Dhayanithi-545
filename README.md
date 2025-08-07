@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhayanithi</h1>
-<h3 align="center">A passionate MERN stack Dev and AI Explorer</h3>
+<h3 align="center">A Full stack Dev and AI Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhayanithi-545&label=Profile%20views&color=0e75b6&style=flat" alt="dhayanithi-545" /> </p>
 
