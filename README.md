@@ -1,42 +1,166 @@
-<h1 align="center">Hi 👋, I'm Dhayanithi</h1>
-<h3 align="center">A Full stack Dev and AI Explorer</h3>
+<!-- IRON MAN HUD — GitHub README for Dhayanithi Anandan -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhayanithi-545&label=Profile%20views&color=0e75b6&style=flat" alt="dhayanithi-545" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhayanithi-545" alt="dhayanithi-545" /></a> </p>
+<!-- ARC REACTOR SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=11&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=SYSTEM+BOOT...;INITIALIZING+JARVIS...;SUIT+ONLINE." alt="boot sequence" />
 
-- 🔭 I’m currently working on [LevelUp](https://levelup-habits.netlify.app/)
+<br/>
 
-- 🌱 I’m currently learning **JAVA Springboot, NextJS, DSA**
+<!-- Arc Reactor Animated Badge -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050c15,50:0a1628,100:050c15&height=3&section=header" width="100%"/>
 
-- 👯 I’m looking to collaborate on **Open source projects**
+```
+╔══════════════════════════════════════════════════════════╗
+║   ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗ █████╗              ║
+║   ██╔══██╗██║  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗             ║
+║   ██║  ██║███████║███████║ ╚████╔╝ ███████║             ║
+║   ██║  ██║██╔══██║██╔══██║  ╚██╔╝  ██╔══██║             ║
+║   ██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║             ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝             ║
+║              FULL-STACK ENGINEER & AI BUILDER            ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-- 🤝 I’m looking for help with **learning AI & ML**
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=Turning+ideas+into+products.+Fast.;Building+%7C+Shipping+%7C+Learning.;Full+Stack+Dev+%2B+AI+Explorer." alt="tagline" />
 
-- 👨‍💻 All of my projects are available at [dhayanithi.vercel.app](dhayanithi.vercel.app)
+<br/>
 
-- 💬 Ask me about **React, Java**
+![Profile Views](https://komarev.com/ghpvc/?username=dhayanithi-545&label=PROFILE+SCANS&color=00d4ff&style=flat-square)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/dhayanithi-545?label=ALLIES&color=00d4ff&style=flat-square)](https://github.com/dhayanithi-545)
 
-- 📫 How to reach me **dhayanithianandan@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kYO2OGw49W5mK6eSKjdl5iLdxKyNvMsH/edit?usp=sharing&ouid=103045256547599211234&rtpof=true&sd=true](https://docs.google.com/document/d/1kYO2OGw49W5mK6eSKjdl5iLdxKyNvMsH/edit?usp=sharing&ouid=103045256547599211234&rtpof=true&sd=true)
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050c15,50:0a1628,100:050c15&height=2" width="100%"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/dhayanithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dhayanithi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhayanithi-anandan-69199a322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhayanithi-anandan-69199a322/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/dhayanithia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dhayanithia" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dhayanithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dhayanithi" height="30" width="40" /></a>
-<a href="https://medium.com/@545nithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@545nithi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dhayanithi_anandan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dhayanithi_anandan/" height="30" width="40" /></a>
-<a href="https://discord.gg/N3Tby54p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N3Tby54p" height="30" width="40" /></a>
-</p>
+## `[ OPERATOR INTEL ]`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```yaml
+IDENTITY   :  Dhayanithi Anandan
+CLASS      :  B.Tech CSE — Chennai, India
+STATUS     :  Building. Shipping. Learning.
+PORTFOLIO  :  https://dhayanithi.vercel.app
+COMMS      :  dhayanithianandan@gmail.com
+SEEKING    :  Open Source Collabs & Founding Team Roles
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhayanithi-545&show_icons=true&locale=en&layout=compact" alt="dhayanithi-545" /></p>
+---
+
+## `[ ACTIVE MISSION ]`
+
+<table>
+<tr>
+<td width="60px" align="center">
+
+```
+[ ✓ ]
+LIVE
+```
+
+</td>
+<td>
+
+### [BeeBot — AI Customer Support](https://beebot-ai.vercel.app)
+
+> Plug-and-play AI support agent. Train it on your docs. Deploy in minutes. No enterprise bloat.
+
+**`DEMO →`** [beebot-ai.vercel.app](https://beebot-ai.vercel.app) &nbsp;|&nbsp; **`SOURCE →`** [github.com/BeeBot-AI/beebot-frontend](https://github.com/BeeBot-AI/beebot-frontend)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `[ TECH ARSENAL ]`
+
+<div align="center">
+
+<!-- Languages -->
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00d4ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00d4ff)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00d4ff)
+![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00d4ff)
+
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00d4ff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00d4ff)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=00d4ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=00d4ff)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=00d4ff)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00d4ff)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00d4ff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=00d4ff)
+
+<!-- DB & Infra -->
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00d4ff)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00d4ff)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00d4ff)
+
+</div>
+
+---
+
+## `[ SKILL MATRIX ]`
+
+```
+Frontend / UI      ████████████████████░░  90%
+Product / GTM      ██████████████████░░░░  85%
+Backend / APIs     ████████████████░░░░░░  80%
+AI Integration     ███████████████░░░░░░░  75%
+DSA / Systems      ████████████░░░░░░░░░░  60%
+```
+
+---
+
+## `[ GITHUB STATS ]`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dhayanithi-545&show_icons=true&theme=dark&bg_color=050c15&title_color=00d4ff&icon_color=00d4ff&text_color=c8e8f5&border_color=00d4ff44&hide_border=false&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanithi-545&layout=compact&theme=dark&bg_color=050c15&title_color=00d4ff&text_color=c8e8f5&border_color=00d4ff44" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhayanithi-545&theme=dark&background=050c15&border=00d4ff44&ring=00d4ff&fire=f5a623&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=4a7a9b)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `[ NETWORK LINKS ]`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/dhayanithi-anandan-69199a322/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=00d4ff)](https://dev.to/dhayanithi)
+[![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=00d4ff)](https://hashnode.com/@dhayanithi)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00d4ff)](https://medium.com/@545nithi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00d4ff)](https://leetcode.com/u/dhayanithi_anandan/)
+[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=00d4ff)](https://www.behance.net/dhayanithia)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00d4ff)](https://discord.gg/N3Tby54p)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=3000&pause=500&color=00D4FF44&center=true&vCenter=true&width=500&lines=SYS_ID%3A+DHAYA-545+%2F%2F+CHENNAI_NODE+%2F%2F+v2.0.26;REACTOR+ONLINE+%2F%2F+ALL+SYSTEMS+NOMINAL" alt="footer" />
+
+</div>
